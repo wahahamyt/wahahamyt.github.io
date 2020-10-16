@@ -3,9 +3,9 @@
 #### Benchmark code:
 
 The benchmark code includes the test data (3 sequences * 25 images) for cross-validation. So you can evaluate the detector directly by using the proposed benchmark.
-- [Baiduyun Disk](url)  
+- [Baiduyun Disk](https://pan.baidu.com/s/1XXApQgA2WM1jNFpKDbrIDA), Code: wnnj  
 
-- [Google Drive](url)
+- [Google Drive](https://drive.google.com/file/d/1ifEEo92je1K7wchwq1SefXkTbtnNrQ2q/view?usp=sharing)
 
 #### Full test data:
 
