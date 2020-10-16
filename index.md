@@ -1,4 +1,4 @@
-## IPTD
+## ISTD
 
 #### Benchmark code:
 
