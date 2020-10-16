@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## IPTD
 
-You can use the [editor on GitHub](https://github.com/wahahamyt/heihei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Benchmark code:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The benchmark code includes the test data (3 sequences * 25 images) for cross-validation. So you can evaluate the detector directly by using the proposed benchmark.
+- Baiduyun Disk:  [Link](url)
 
-### Markdown
+- Google Drive: [Link](url)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Full test data:
+The test data includes three sequences, annotations. Each sequence has 100 infrared images
+- Baiduyun Disk:  [Link](url)
 
-```markdown
-Syntax highlighted code block
+- Google Drive: [Link](url)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wahahamyt/heihei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
