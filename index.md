@@ -4,7 +4,7 @@
 
 The benchmark code includes the test data (3 sequences * 25 images) for cross-validation. So you can evaluate the detector directly by using the proposed benchmark.
 - [Baiduyun Disk](https://pan.baidu.com/s/1SGPdh7E96nc1gKFUpfi4Pg), Code: 88og  
-- [Google Drive](https://drive.google.com/file/d/1ifEEo92je1K7wchwq1SefXkTbtnNrQ2q/view?usp=sharing)
+- [Google Drive](https://drive.google.com/file/d/13FKykB7rCer8BTvtYHp7fQBcB3yUgAN2/view?usp=sharing)
 
 #### Full test data:
 
